@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566760444238",
+    "project_id": "my-fourth-practice-flutter",
+    "storage_bucket": "my-fourth-practice-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566760444238:android:ef7db7a2129ff494710e1f",
+        "android_client_info": {
+          "package_name": "com.example.fourth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566760444238-k634gqvlo679vr15dtjslt7i5d87to7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXyPjAzQwcwkUw3vgNrT6-ELH5LISCKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566760444238-k634gqvlo679vr15dtjslt7i5d87to7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
